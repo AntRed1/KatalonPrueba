@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cerrar Sesin</name>
+   <tag></tag>
+   <elementGuidId>8fc75962-ee33-46ee-b691-617bad4b5f3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profile-dropdown-menu']/div[8]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.menu-description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>405f4d99-9e0a-4e7a-bc28-5f3b214bca08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-description</value>
+      <webElementGuid>6aabeedc-8dab-4ece-99f5-b060dfd7d990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cerrar Sesión</value>
+      <webElementGuid>44b11aae-75c7-411e-a176-68a1a09e1489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profile-dropdown-menu&quot;)/div[@class=&quot;dropdown-item-text header-information__dropdown-item-text&quot;]/a[@class=&quot;header-information-logout&quot;]/span[@class=&quot;menu-description&quot;]</value>
+      <webElementGuid>08c63103-fe7c-4b24-add1-61814444d72d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profile-dropdown-menu']/div[8]/a/span</value>
+      <webElementGuid>0d3071d9-957c-42b0-8931-befb06d13432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English US'])[1]/following::span[1]</value>
+      <webElementGuid>4ce5219a-adff-4f05-abda-8507377d4fa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Español DO'])[1]/following::span[2]</value>
+      <webElementGuid>c6b9d365-7bf6-45c6-8b67-f7cb4a053222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resumen'])[2]/preceding::span[1]</value>
+      <webElementGuid>44076c06-91ee-4a8d-b235-6fb96858a1d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Todos'])[1]/preceding::span[2]</value>
+      <webElementGuid>534be7c2-7e2b-4426-858e-391c13db6e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/a/span</value>
+      <webElementGuid>dbbe014e-4fa8-42c8-a4c8-c7bf1b12358d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cerrar Sesión' or . = 'Cerrar Sesión')]</value>
+      <webElementGuid>a3908361-80e0-499f-8c78-218992db3984</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

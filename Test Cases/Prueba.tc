@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Anthony Full</description>
+   <name>Prueba</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ff390bd-7ffd-4d48-8ff1-6341cd86e742</testCaseGuid>
+</TestCaseEntity>
