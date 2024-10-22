@@ -21,15 +21,15 @@ import com.kms.katalon.core.testdata.TestDataFactory as TestDataFactory
 import com.kms.katalon.core.testcase.TestCaseFactory as TestCaseFactory
 import org.openqa.selenium.Keys as Keys
 
-for (int i = 0; i >= 10; i++ ) {	
+for (int i = 0; i <= 10; i++ ) {	
 	
 	'ABRIR EL EXPLORADOR Y NAVEGAR AL NETBANKING'
-	WebUI.openBrowser('https://172.20.15.38/onlinebanking/')
+	WebUI.openBrowser('https://qa2.santacruz.do/onlinebanking')
 	
 	'Delete all cookies after browser is opened'
 	WebUI.deleteAllCookies()
 	
-	WebUI.navigateToUrl('https://172.20.15.38/onlinebanking/')
+	WebUI.navigateToUrl('https://qa2.santacruz.do/onlinebanking')
 	
 	WebUI.maximizeWindow()
 	
