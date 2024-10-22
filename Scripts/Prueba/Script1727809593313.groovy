@@ -24,12 +24,12 @@ import org.openqa.selenium.Keys as Keys
 for (int i = 0; i <= 10; i++ ) {	
 	
 	'ABRIR EL EXPLORADOR Y NAVEGAR AL NETBANKING'
-	WebUI.openBrowser('https://qa2.santacruz.do/onlinebanking')
+	WebUI.openBrowser('https://bscenlinea.com.do/onlinebanking')
 	
 	'Delete all cookies after browser is opened'
 	WebUI.deleteAllCookies()
 	
-	WebUI.navigateToUrl('https://qa2.santacruz.do/onlinebanking')
+	WebUI.navigateToUrl('https://bscenlinea.com.do/onlinebanking')
 	
 	WebUI.maximizeWindow()
 	
